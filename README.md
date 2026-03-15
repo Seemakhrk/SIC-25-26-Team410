@@ -9,7 +9,7 @@ The primary objectives  of this project is to leverage Big Data Analytics to tra
 4. We will use data visualization to create meaningful summaries that help stakeholders make informed strategic decisions based on the 4,999 records in our dataset.
 
 ** METHODOLOGY:
-1. Dara Ingestion : Large-scale data processing using the file.csv dataset.
+1. Data Ingestion : Large-scale data processing using the file.csv dataset.
 2. Analytical Tools : Using Pythan and Pandas for data wrangling in a Google Colab environment.
 3. Process : Data cleaning, handling missing values, abd performing descriptive statistical analysis to generate insights.
 
