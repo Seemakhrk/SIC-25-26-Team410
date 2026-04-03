@@ -8,13 +8,16 @@
      - UPLOADED DATASET ( file.csv) to the 'data/' folder .
      - Updated README.md with project details.
 
-3. Phase 2 :
-  EDA & Documentation (Current)
-- Perform Data Cleaning and Exploratory Data Analysis  (EDA)
-- Prepare Action Plan and WBS Worksheet.
-- Generate visual charts from the data.
+   3. PHASE 2 : EDA & Documentation (Completed)
+* **Data Cleaning:** Cleaned the raw dataset by removing null values and stripping extra spaces from column names.
+* **Model Training:** Successfully trained a Linear Regression model using 'Quantity' and 'Discount' features.
+* **Model Export:** Saved the final model as `model.pkl` using the Pickle library.
+* **Visualizations:** Generated Sales distribution charts using Seaborn and Matplotlib.
 
-    4. PHASE 3 :Final Submission
-  - Prepare the Final Report and Presentation .
-  - Submit the GitHub repository link.
+4. PHASE 3 : Final Submission (Next Step)
+* Prepare the final PPT and PDF report.
+* Organize the GitHub repository as per the mandatory format.
+* Download the project as a ZIP file for final submission.
+
+
    
