@@ -1,6 +1,9 @@
 ** Project Name : Big Data Analytics For Business Insight
 ** Project ID : SIC-25-26-Team410
 
+### 📊 Project Overview:
+This project focuses on leveraging Big Data analytics to extract actionable business insights from large-scale datasets. Using advanced data processing and predictive modeling, we aim to identify market trends, customer behavior, and operational efficiencies to support data-driven decision-making in a competitive business environment.
+
 ** Project Objective : 
 The primary objectives  of this project is to leverage Big Data Analytics to transform raw product data into actionable business insights . By aqnalyzing a large-scale dataset of 4,999 records,we aim to :
 1. We aim to extract business intelligence by identifying hidden patterns in sales, customer segments, and regional performance.
@@ -13,16 +16,31 @@ The primary objectives  of this project is to leverage Big Data Analytics to tra
 2. Analytical Tools : Using Pythan and Pandas for data wrangling in a Google Colab environment.
 3. Process : Data cleaning, handling missing values, abd performing descriptive statistical analysis to generate insights.
 
-** REPOSITORY STRUCTURE
-- data : This folder contains the raw product dataset (file.csv) used for analysis.
-- notebook : This folder contains the Google Colab/JUPYTER NOTEBOOK (EDA.ipynb) with all the Python code.
-- models : This folder is reserved for saving any machine learning models developed during the project.
-- submission_templates : This folder contains project documentation like the Action Plan and WBS.
+### 📂 Repository Structure
+The repository is organized as follows:
 
- ** TEAM MEMBERS 
- Naseema
- Muskan
- Shobha
- Isha
- Isha
+* 📁 **data/dataset(s)/:** Contains raw and processed business datasets (CSV files).
+* 📁 **models/:** Includes the trained predictive model (`model.pkl`) for business forecasting.
+* 📁 **notebook/:** Contains the Google Colab Notebook (`.ipynb`) with complete EDA, cleaning, and model code.
+* 📁 **submission_templates/:** Mandatory documentation files:
+    * `Action_Plan.md`
+    * `final_report.pdf`
+    * `present_bigdata.pptx`
+    * `wbs_final.xlsx`
+    * 
+  ### 🛠️ Technical Stack
+* **Programming:** Python
+* **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+* **Environment:** Google Colab
+  
+### 🚀 Conclusion
+The analysis successfully provides a framework for understanding complex business data, offering visual insights and predictive accuracy to optimize business strategies.
+
+
+ ** TEAM MEMBERS:
+ Naseema(TEAM LEADER)
+ Muskan(DATA LEAD)
+ Shobha(MODEL BUILDER)
+ Isha(PRESENTATION AND DEMO)
+ Isha(RESEARCH AND TESTING)
 
